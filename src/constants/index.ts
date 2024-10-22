@@ -130,7 +130,7 @@ export const initialSuppliers = [
     company: 'BMW',
     responsable: 'Murat Silbir',
     email: 'Silbirmurat@gmail.com',
-    phone: '+90 542 318 16 90',
+    phone: '+90 542 318 1690',
     group: 'Group name',
     checked: true,
   },
